@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>오병원</p>
+    <ol type="I">
+    <li>병원</li>
+    <li>병원장</li>
+    <li>오병원</li>
+    </ol>
+      
+    <p><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=17034583&memberNo=15305315&vType=VERTICAL">이종석</a> 찌질이</p>
+      
+    <h1>연습중</h1> 
+    <p>HTML 쉽다</p>
+    <img src="images/photo-1504610926078-a1611febcad3.jpg" alt="My test image">
+  </body>
+</html>
